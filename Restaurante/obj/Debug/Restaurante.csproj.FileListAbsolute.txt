@@ -1,0 +1,12 @@
+C:\Users\Matt Workstation\source\repos\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\Matt Workstation\source\repos\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\Matt Workstation\source\repos\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\Matt Workstation\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\Matt Workstation\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Form1.resources
+C:\Users\Matt Workstation\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.PrimerControl.resources
+C:\Users\Matt Workstation\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\Matt Workstation\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.SegundoControl.resources
+C:\Users\Matt Workstation\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\Matt Workstation\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Matt Workstation\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\Matt Workstation\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
